@@ -2,6 +2,7 @@
 Use these scripts in numerical order to analyze the raw read files in the BioProject PRJNA940156. 
 
 METHODs
+
 1_clean_align.sh -> takes raw reads, removes the EcoRI restriction enzyme, aligns to reference genome
 
 2_stacks.sh -> takes resulting bam files for input into Stacks and produces files for the populations script
