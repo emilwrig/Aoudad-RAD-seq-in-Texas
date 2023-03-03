@@ -16,3 +16,4 @@ METHODs
 10_plot_structure.R -> use the plink outputs of the PCA and plot
 11_relatedness.r -> use the filtered vcf files to estimate relatedness values using the different estimation methods (i.e., Wang, King-robust, etc.)
 12_coverage_missing_snps_summaries.R -> determine summary stats for each dataset (i.e., number of SNPs, mean coverage depth, , etc.)
+ 
