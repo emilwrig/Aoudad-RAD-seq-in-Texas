@@ -1,7 +1,7 @@
 # aoudad_radseq_in_tx
 Use these scripts in numerical order to analyze the raw read files in the BioProject PRJNA940156. 
 
-METHODs
+METHODS
 
 1_clean_align.sh -> takes raw reads, removes the EcoRI restriction enzyme, aligns to reference genome
 
